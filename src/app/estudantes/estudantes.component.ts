@@ -12,6 +12,8 @@ export class EstudantesComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  estudante = "Danilo"
+
 }
 //"estudantes" equivale ao "heroes"
 //ng generate component heroes
